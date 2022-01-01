@@ -27,10 +27,6 @@ convert natural units to SI units using '*'
 6.756925391423419e-43  #output:second
 ```
 
-## changing defining constant
-use **x(h)** function to change between h and ħ (h/2π)
-use **x(e0)** to to change between e0 and 4π⋅e0
-
 ## supported units
 |symbol|name|quantity|
 |-|-|-|
